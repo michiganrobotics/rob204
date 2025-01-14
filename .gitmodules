@@ -1,0 +1,6 @@
+[submodule "user-interface/robot-gui"]
+	path = user-interface/robot-gui
+	url = git@github.com:twhelgeson/robot-gui.git
+[submodule "user-interface/arduinoGamepad"]
+	path = user-interface/arduinoGamepad
+	url = git@github.com:ChancellorDay/arduinoGamepad.git
