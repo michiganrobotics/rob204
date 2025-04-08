@@ -4,3 +4,6 @@
 [submodule "user-interface/arduinoGamepad"]
 	path = user-interface/arduinoGamepad
 	url = git@github.com:ChancellorDay/arduinoGamepad.git
+[submodule "ROB204-Lab-Comm"]
+	path = ROB204-Lab-Comm
+	url = git@github.com:Minisolarclown/ROB204-Lab-Comm.git
