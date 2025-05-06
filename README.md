@@ -64,6 +64,7 @@ Necessary Hardware:
 - Miranda Mittleman
 - Connor Williams
 - Thor Helgeson
+- Chancellor Day
 - Skye Krzykwa
 
 ## For more
