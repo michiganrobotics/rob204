@@ -4,7 +4,7 @@
 The first iteration of this course was offered in Fall 2022. 
 
 ## Labs 
-Labs are split into two phases––the first, which are hands-on learning activities intended to teach students about core HRI fundamentals. A brief description of each lab can be seen below. The second phase is a detailed usability study, where students perform stakeholder interviews to learn about the socially-engaged design. As no hardware and software are required for these labs, they will  be omitted from this description.
+Labs are split into two phases––the first, which are hands-on learning activities intended to teach students about core HRI fundamentals. The second phase is a detailed usability study, where students perform stakeholder interviews to learn about the socially-engaged design. A brief description of each of these lab can be seen below.
 
 ### Lab 1/2 - User Interface Control Input Design Labs 
 Description: The learning objectives of this lab are to equip students with the skills necessary to design and evaluate a user interface to support a robotic task, implement different types of direct input controls for robotic systems, and investigate the role of perception in interface design.
@@ -35,6 +35,9 @@ Description: The main objectives of this lab are to develop a mental model of a 
 Necessary Hardware: 
 - Amazon Astro
 - PVC Pipe, 3d printed parts, and Plastic Walls
+
+### Lab 7 - 12 - Socially Engaged Design Project
+Description: The objectives of these labs are for students to gather insights from stakeholder interviews, develop a problem statement to define the criteria of a satisfactory solution, create conceptual designs, and finally conduct a usability study to evaluate their designs. This sequence serves as the final project for the course.
   
 ## Course Plan
 
@@ -59,11 +62,13 @@ Necessary Hardware:
 ## Credits
 - Leia Stirling, Associate Professor, U-M
 - Mark Draelos, Assistant Professor, U-M
-- Lionel Robert, Professor, U-M 
-- Derrick Yeo, Lecturer, U-M
 - Connor Williams
-- Thor Helgeson
 - Miranda Mittleman
+- Thor Helgeson
+- Chancellor Day
+- Joseph Fedoronko
+- Michael Robinson
+- Skye Krzykwa
 
 ## For more
 - [University of Michigan Robotics](https://robotics.umich.edu/)
