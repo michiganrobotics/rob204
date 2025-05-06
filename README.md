@@ -34,7 +34,7 @@ Description: The main objectives of this lab are to develop a mental model of a 
 
 Necessary Hardware: 
 - Amazon Astro
-- PVC Pipe and Plastic Walls
+- PVC Pipe, 3d printed parts, and Plastic Walls
   
 ## Course Plan
 
