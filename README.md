@@ -1,4 +1,4 @@
-# Robotics 204: Introduction to Human Robot Systems
+# Robotics 204: Introduction to Human-Robot Systems
 [ROB 204](https://robotics.umich.edu/academics/courses/course-offerings/rob-204-winter-2022/) is an introductory course for robotics majors that provides a foundation for designing robotic systems to address a user need with a sociotechnical context. The course combines lectures, labs, and discussions to teach and reinforce learning objectives in an equitable and experiential manner. The main learning objectives of this course are to teach students how to ideate robotic system designs, infer how a person should interact with that system and characterize their influence on its design, and assess the overall system with end users. 
 
 The first iteration of this course was offered in Fall 2022. 
