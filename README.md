@@ -61,11 +61,9 @@ Necessary Hardware:
 - Mark Draelos, Assistant Professor, U-M
 - Lionel Robert, Professor, U-M 
 - Derrick Yeo, Lecturer, U-M
-- Miranda Mittleman
 - Connor Williams
 - Thor Helgeson
-- Chancellor Day
-- Skye Krzykwa
+- Miranda Mittleman
 
 ## For more
 - [University of Michigan Robotics](https://robotics.umich.edu/)

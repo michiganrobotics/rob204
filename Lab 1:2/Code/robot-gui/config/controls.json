@@ -1,0 +1,111 @@
+{
+    "Layer Toggle": "none",
+    "Controls Layer 1": {
+        "End Effector Controls": {
+            "Axis Controls": {
+                "X position": "none",
+                "Y position": "none",
+                "Z position": "none",
+                "X rotation": "none",
+                "Y rotation": "none",
+                "Z rotation": "none"
+            },
+            "Incremental Controls": {
+                "step size": 0.1,
+                "increment X position": "none",
+                "decrement X position": "none",
+                "increment Y position": "none",
+                "decrement Y position": "none",
+                "increment Z position": "none",
+                "decrement Z position": "none",
+                "increment X rotation": "none",
+                "decrement X rotation": "none",
+                "increment Y rotation": "none",
+                "decrement Y rotation": "none",
+                "increment Z rotation": "none",
+                "decrement Z rotation": "none"
+            }
+        },
+        "Joint Controls": {
+            "Angle Controls": {
+                "joint 0 angle": "none",
+                "joint 1 angle": "none",
+                "joint 2 angle": "none",
+                "joint 3 angle": "none",
+                "joint 4 angle": "none",
+                "joint 5 angle": "none"
+            },
+            "Incremental Controls": {
+                "step size (degrees)": 5,
+                "increment joint 0 angle": "none",
+                "decrement joint 0 angle": "none",
+                "increment joint 1 angle": "none",
+                "decrement joint 1 angle": "none",
+                "increment joint 2 angle": "none",
+                "decrement joint 2 angle": "none",
+                "increment joint 3 angle": "none",
+                "decrement joint 3 angle": "none",
+                "increment joint 4 angle": "none",
+                "decrement joint 4 angle": "none",
+                "increment joint 5 angle": "none",
+                "decrement joint 5 angle": "none"
+            }
+        },
+        "Grasp": "none",
+        "Pan Camera": "none"
+    },
+    "Controls Layer 2": {
+        "End Effector Controls": {
+            "Axis Controls": {
+                "X position": "none",
+                "Y position": "none",
+                "Z position": "none",
+                "X rotation": "none",
+                "Y rotation": "none",
+                "Z rotation": "none"
+            },
+            "Incremental Controls": {
+                "step size": 0.25,
+                "increment X position": "none",
+                "decrement X position": "none",
+                "increment Y position": "none",
+                "decrement Y position": "none",
+                "increment Z position": "none",
+                "decrement Z position": "none",
+                "increment X rotation": "none",
+                "decrement X rotation": "none",
+                "increment Y rotation": "none",
+                "decrement Y rotation": "none",
+                "increment Z rotation": "none",
+                "decrement Z rotation": "none"
+            }
+        },
+        "Joint Controls": {
+            "Angle Controls": {
+                "joint 0 angle": "none",
+                "joint 1 angle": "none",
+                "joint 2 angle": "none",
+                "joint 3 angle": "none",
+                "joint 4 angle": "none",
+                "joint 5 angle": "none"
+            },
+            "Incremental Controls": {
+                "step size (degrees)": 10,
+                "increment joint 0 angle": "none",
+                "decrement joint 0 angle": "none",
+                "increment joint 1 angle": "none",
+                "decrement joint 1 angle": "none",
+                "increment joint 2 angle": "none",
+                "decrement joint 2 angle": "none",
+                "increment joint 3 angle": "none",
+                "decrement joint 3 angle": "none",
+                "increment joint 4 angle": "none",
+                "decrement joint 4 angle": "none",
+                "increment joint 5 angle": "none",
+                "decrement joint 5 angle": "none"
+            }
+        },
+        "Grasp": "none",
+        "Pan Camera": "none"
+    }
+}

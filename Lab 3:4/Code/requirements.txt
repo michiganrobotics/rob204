@@ -1,0 +1,5 @@
+mediapipe==0.10.14
+jupyterlab
+picamera2
+ipywidgets
+jupyterlab-hidecell

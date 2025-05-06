@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@lume/three-meshline": "^4.0.5",
+    "@tweenjs/tween.js": "^21.0.0",
+    "three": "^0.153.0"
+  },
+  "devDependencies": {
+    "vite": "^4.3.9"
+  }
+}
