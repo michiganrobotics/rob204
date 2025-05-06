@@ -36,7 +36,7 @@ Necessary Hardware:
 - Amazon Astro
 - PVC Pipe, 3d printed parts, and Plastic Walls
 
-### Lab 7 - 12 - Socially Engaged Design Project
+### Lab 7-12 - Socially Engaged Design Project
 Description: The objectives of these labs are for students to gather insights from stakeholder interviews, develop a problem statement to define the criteria of a satisfactory solution, create conceptual designs, and finally conduct a usability study to evaluate their designs. This sequence serves as the final project for the course.
   
 ## Course Plan
